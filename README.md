@@ -16,21 +16,21 @@ Key parts of our meta-model:
 This project is being used in an active contest, for confidentiality reasons, it will remain private. Contact to me if interested.
 
 ## Transformer AD architecture
-![Example Image](images/TranAD.png)
+![Tran AD](images/TranAD.png)
 
 ## Hierarchical Training procedure
-![Example Image](images/Training.png)
+![Hierarchical Training](images/Training.png)
 
-![Example Image](images/architecture.png)
+![Full Structure](images/architecture.png)
 
 ## WebApp visualization of anomaly detection using the model
-![Example Image](images/anomaly_visualization.png)
+![Anomalies](images/anomaly_visualization.png)
 
 ## Web App visualization of our consumption prediction model
-![Example Image](images/Prophet.jpg)
+![Prediction](images/Prophet.jpg)
  
 ## Web App map visualization of the anomalies
- ![Example Image](images/Map.jpg)
+ ![Map](images/Map.jpg)
 
 
 
