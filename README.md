@@ -5,7 +5,7 @@ Features:
  - Anomaly detection
  - Consumption pattern recognition
  - Consumption Prediction
- - Webapp visualization
+ - Web App visualization
 
 Key parts of our meta-model: 
  - Time Series Analysis 
@@ -15,14 +15,23 @@ Key parts of our meta-model:
 
 This project is being used in an active contest, for confidentiality reasons, it will remain private. Contact to me if interested.
 
+## Transformer AD architecture
+![Example Image](images/TranAD.png)
 
+## Hierarchical Training procedure
+![Example Image](images/Training.png)
+
+![Example Image](images/architecture.png)
+
+## WebApp visualization of anomaly detection using the model
+![Example Image](images/anomnaly_visualization.png)
+
+## Web App visualization of our consumption prediction model
+![Example Image](images/Prophet.jpg)
+ 
+## Web App map visualization of the anomalies
  ![Example Image](images/Map.jpg)
 
 
-![Example Image](images/Prophet.jpg)
 
 
-![Example Image](images/Training.jpg)
-
-
-![Example Image](images/TranAD.jpg)
