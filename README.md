@@ -14,3 +14,15 @@ Key parts of our meta-model:
  - Prophet
 
 This project is being used in an active contest, for confidentiality reasons, it will remain private. Contact to me if interested.
+
+
+ ![Example Image](images/Map.jpg)
+
+
+![Example Image](images/Prophet.jpg)
+
+
+![Example Image](images/Training.jpg)
+
+
+![Example Image](images/TranAD.jpg)
