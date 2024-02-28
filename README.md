@@ -5,7 +5,7 @@ Features:
  - Anomaly detection
  - Consumption pattern recognition
  - Consumption Prediction
- - Wrebapp visualization
+ - Webapp visualization
 
 Key parts of our meta-model: 
  - Time Series Analysis 
