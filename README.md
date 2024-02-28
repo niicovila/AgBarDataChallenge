@@ -24,7 +24,7 @@ This project is being used in an active contest, for confidentiality reasons, it
 ![Example Image](images/architecture.png)
 
 ## WebApp visualization of anomaly detection using the model
-![Example Image](images/anomnaly_visualization.png)
+![Example Image](images/anomaly_visualization.png)
 
 ## Web App visualization of our consumption prediction model
 ![Example Image](images/Prophet.jpg)
